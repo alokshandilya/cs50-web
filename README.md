@@ -1,19 +1,5 @@
 # CS50’s Web Programming with Python and JavaScript
 
-## Topics
-
-- HTML
-- CSS
-- Git
-- Python
-- Django
-- SQL
-- JavaScript
-- User Interfaces
-- Testing
-- Scalability
-- Security
-
 ## Progress table
 
 | # Week | Topic                      | Status |
