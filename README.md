@@ -5,7 +5,7 @@
 | # Week | Topic                      | Notes | Project |
 | :----: | -------------------------- | :---: | :-----: |
 |   0    | HTML, CSS                  |   ✅  |   :x:   |
-|   1    | Git                        |  :x:  |   :x:   |
+|   1    | Git                        |   ✅  |   :x:   |
 |   2    | Python                     |  :x:  |   :x:   |
 |   3    | Django                     |  :x:  |   :x:   |
 |   4    | SQL, Models and Migrations |  :x:  |   :x:   |
