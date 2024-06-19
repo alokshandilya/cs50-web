@@ -11,7 +11,7 @@
 - Django
 - Routes
 - Templates
-  - Conditionals:
+  - Conditionals
   - Styling
 - Tasks
 - Forms
